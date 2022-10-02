@@ -1,0 +1,24 @@
+{
+  "name": "burble-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarianaGSMuniz/Burbble-Sort.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarianaGSMuniz/Burbble-Sort/issues"
+  },
+  "homepage": "https://github.com/MarianaGSMuniz/Burbble-Sort#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
